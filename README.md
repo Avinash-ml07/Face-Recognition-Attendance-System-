@@ -30,7 +30,7 @@ It lets you:
 
 ## Demo Video
 
-[Watch the demo]([demo.mp4](https://drive.google.com/file/d/1YP1fkU4KMJiqdy1tjkP_kPzQPlCZzJcA/view?usp=sharing))
+[Watch the demo](https://drive.google.com/file/d/1YP1fkU4KMJiqdy1tjkP_kPzQPlCZzJcA/view?usp=sharing)
 
 Install:
 ```bash
