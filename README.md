@@ -26,7 +26,17 @@ It lets you:
   - `opencv-python`
   - `face_recognition` (uses `dlib`)
   - `numpy`
+ 
+
+## Demo Video
+
+[Watch the demo]([demo.mp4](https://drive.google.com/file/d/1YP1fkU4KMJiqdy1tjkP_kPzQPlCZzJcA/view?usp=sharing))
 
 Install:
 ```bash
 pip install opencv-python face_recognition numpy
+
+
+
+
+
